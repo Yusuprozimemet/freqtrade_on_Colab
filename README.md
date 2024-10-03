@@ -1,5 +1,4 @@
 # Running Freqtrade on Google Colab
-![Freqtrade UI](freqtrade-ui.dfb46071.png)
 ## Introduction
 
 Installing Freqtrade on a Windows machine can be a complex process, often requiring extensive setup such as:
